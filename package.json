@@ -1,0 +1,11 @@
+{
+  "name": "cesium-ext",
+  "version": "0.0.1",
+  "description": "cesium-ext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dudo",
+  "license": "ISC"
+}
